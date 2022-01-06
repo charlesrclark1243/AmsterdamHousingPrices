@@ -1,0 +1,9 @@
+Data set downloaded from Kaggle at the following URL:
+https://www.kaggle.com/thomasnibb/amsterdam-house-price-prediction
+
+To get code to run without error, follow these steps:
+1. Create a working directory in your file manager.
+2. Create a folder called "data" and another called "src".
+3. Use the link provided above to download a .zip file containing the data.
+4. Move the downloaded .zip file to the "data" folder in your working directory; DO NOT RENAME THE ZIP FILE.
+5. Place the .ipynb and .py files from this project into your "src" folder in the working directory.
